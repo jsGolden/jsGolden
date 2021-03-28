@@ -14,6 +14,8 @@
 
 ---
 
+<h2>About me</h2>
+
 🚀 Web development enthusiast!
 
 ✏ 2017, when I started programming, I found what I wanted to do for the rest of my life!
@@ -26,7 +28,7 @@ I am currently looking for my first opportunity as a junior. I feel like I'm fin
 
 ---
 
-### Tech & Tools Preference
+<h2>Tech & Tools Preference</h2>
 
 <p align="center">
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
