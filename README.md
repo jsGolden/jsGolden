@@ -26,6 +26,10 @@ I am currently looking for my first opportunity as a junior. I feel like I'm fin
 
 ⚡ Curious fact: I love Javascript with all my strength! 🤣💜
 
+<p align="center">
+  <img src="https://pbs.twimg.com/media/EZVGdFmXkAEyIg5.jpg" alt="meme" width="350px" height="auto" />
+</p>
+
 ---
 
 <h2>Tech & Tools Preference</h2>
