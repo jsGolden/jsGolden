@@ -27,7 +27,7 @@ I am currently looking for my first opportunity as a junior. I feel like I'm fin
 ⚡ Curious fact: I love Javascript with all my strength! 🤣💜
 
 <p align="right" width="100px">
-  <i style="font-size: 10px;">
+  <i style="font-size: 10px; text-align: justify;">
     A person who thinks all the time<br>
     Has nothing to think about except thoughts<br>
     So, he loses touch with reality<br>
