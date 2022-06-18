@@ -22,7 +22,7 @@
 I have always been very attached to technology and the quest to solve increasingly difficult problems.
 
 📚 I love to study programming and help beginners in the field, like me!
-I am currently looking for my first opportunity as a junior. I feel like I'm finally prepared to embark on this incredible experience.
+I am currently working on my first job opportunity as a junior. I feel happy and excited to evolve myself and my abilities using technology!
 
 ⚡ Curious fact: I love Javascript with all my strength! 🤣💜
 
