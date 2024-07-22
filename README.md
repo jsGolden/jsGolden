@@ -3,13 +3,9 @@
 
 
 <p align="center">
-  <a href="https://img.shields.io/github/followers/jsGolden?label=Follow&style=social">
-    <img src="https://img.shields.io/github/followers/jsGolden?label=Follow&style=social">
-  </a>
-  <a href="https://www.linkedin.com/in/wagner-rodrigues-516408206">
+  <a href="https://www.linkedin.com/in/wagner-rodrigues-dev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
-    <img src="https://img.shields.io/badge/Tag-golden%239908-7289DA?logo=discord&style=flat-square&logoColor=white">
 </p>
 
 ---
@@ -18,13 +14,12 @@
 
 🚀 Web development enthusiast!
 
-✏ 2017, when I started programming, I found what I wanted to do for the rest of my life!
-I have always been very attached to technology and the quest to solve increasingly difficult problems.
+👋 Olá! Eu sou Wagner, um entusiasta de tecnologia dedicado a explorar e aprimorar minhas habilidades no mundo da programação! Com uma paixão desde 2017, tenho me especializado em desenvolvimento web, com linguagens como Javascript/Typescript, NodeJS, Golang, C#, Rust, etc.
+🤿 Mergulhando tanto no front-end quanto no back-end, o que me permite atuar como um desenvolvedor fullstack.
 
-📚 I love to study programming and help beginners in the field, like me!
-I am currently working on my first job opportunity as a junior. I feel happy and excited to evolve myself and my abilities using technology!
+⏳ Atualmente, desempenho um papel fundamental no suporte de uma plataforma iPaaS, trabalhando na sustentação e desenvolvimento de integrações e microsserviços utilizando ferramentas como NodeJS, provedores em nuvem como AWS/Azure, serviços de mensageria/cache como RabbitMQ, Kafka e Redis, serviços de monitoria como Grafana, Elastic, Zabbix, etc.
 
-⚡ Curious fact: I love Javascript with all my strength! 🤣💜
+🧑‍🎓 Estou atualmente cursando Análise e Desenvolvimento de Sistemas, onde estou no 3º semestre. Esta combinação de estudo acadêmico e experiência prática me permite abordar os desafios técnicos com uma perspectiva abrangente e atualizada.
 
 <p align="right" style="font-size: 10px; text-align: justify;">
   <i style="font-size: 10px; text-align: justify;">
