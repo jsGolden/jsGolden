@@ -31,10 +31,6 @@
   </i>
 </p>
 
-<p align="center">
-  <img src="https://pbs.twimg.com/media/EZVGdFmXkAEyIg5.jpg" alt="meme" width="350px" height="auto" />
-</p>
-
 ---
 
 <h2>Tech & Tools Preference</h2>
